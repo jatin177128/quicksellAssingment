@@ -31,6 +31,7 @@
   .dropdown-item {
     display: flex;
     justify-content: space-between;
+    gap:5vw;
     align-items: center;
     margin-bottom: 12px;
   }
